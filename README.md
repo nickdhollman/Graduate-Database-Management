@@ -1,2 +1,2 @@
 # Graduate-Database-Management
-MSIS 5643 - Graduate Course taken in MS BAnDS program focused on relational database modeling, focused in SQL
+MSIS 5643 - Graduate Course taken in MS BAnDS program focused on relational database modeling. The course was split into three parts. The first part focused on hand writing ERD diagrams given business processes and request. The second part focused on table creation and table population using excel and SQL. The third part focused on database querying in SQL. Parts two and three are what are posted in this repository. 
